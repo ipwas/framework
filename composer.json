@@ -1,0 +1,22 @@
+{
+    "name": "happ/framework",
+    "description": "This is a basic framework package for h-app.cn",
+    "license": "GPL",
+	"homepage": "http://h-app.cn/",
+    "authors": [
+        {
+            "name": "laowu",
+            "email": "server@h-app.cn"
+        }
+    ],
+    "require":{
+		"php": ">=8.0.0",
+		"topthink/framework": "^8.0"
+	},
+	"autoload": {
+	    "files": [],
+	    "psr-4": {
+	        "happcn\\": "src/happcn/"
+	    }
+	}
+}
