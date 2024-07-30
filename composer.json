@@ -1,7 +1,7 @@
 {
     "name": "happ/framework",
     "description": "This is a basic framework package for h-app.cn",
-    "license": "GPL",
+    "license": "MIT",
 	"homepage": "http://h-app.cn/",
     "authors": [
         {
