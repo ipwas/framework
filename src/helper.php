@@ -8,3 +8,6 @@
 // +----------------------------------------------------------------------
 declare(strict_types=1);
 
+function getFrameworkVersion():string{
+	return '1.0.0';
+}
